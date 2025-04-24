@@ -1,4 +1,4 @@
-# Event Management System
+# Event Management System in c++
 
 ## Overview
 Event Management System is a console-based C++ application that allows users to create, manage, and participate in events. The system features user authentication, event creation with date/time validation, RSVPs, public and private events, and efficient date-based searches.
